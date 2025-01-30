@@ -1,0 +1,318 @@
+2025-01-29 23:20:39,585 - INFO - Script started: Loading dataset...
+2025-01-29 23:20:41,740 - INFO - Dataset loaded successfully.
+2025-01-29 23:20:41,741 - INFO - Generating Sales by Category (Bar Chart)...
+2025-01-29 23:20:44,469 - ERROR - Error generating Sales by Category chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:20:44,469 - INFO - Generating Profit by Region (Bar Chart)...
+2025-01-29 23:20:44,522 - ERROR - Error generating Profit by Region chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:20:44,522 - INFO - Generating Order Quantity Distribution (Histogram)...
+2025-01-29 23:20:44,647 - ERROR - Error generating Order Quantity Distribution chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:20:44,647 - INFO - Generating Sales Trend Over Time (Line Chart)...
+2025-01-29 23:20:44,767 - ERROR - Error generating Sales Trend Over Time chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:20:44,767 - INFO - Generating Sales vs Profit (Scatter Plot)...
+2025-01-29 23:20:44,819 - ERROR - Error generating Sales vs Profit chart: No module named 'statsmodels'
+2025-01-29 23:20:44,819 - INFO - Generating Sales by Sub-Category (Treemap)...
+2025-01-29 23:20:45,114 - ERROR - Error generating Sales by Sub-Category chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:20:45,114 - INFO - Generating Top 10 Customers by Sales (Bar Chart)...
+2025-01-29 23:20:45,158 - ERROR - Error generating Top Customers by Sales chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:20:45,158 - INFO - Generating Sales by Discount Range (Box Plot)...
+2025-01-29 23:20:45,278 - ERROR - Error generating Sales by Discount Range chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:20:45,278 - INFO - Generating Order Distribution by Ship Mode (Pie Chart)...
+2025-01-29 23:20:45,383 - ERROR - Error generating Order Distribution by Ship Mode chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:20:45,383 - INFO - Generating Category-wise Sales Over Time (Area Chart)...
+2025-01-29 23:20:45,458 - ERROR - Error generating Category-wise Sales Over Time chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:20:45,458 - INFO - All graphs generated successfully.
+2025-01-29 23:22:50,286 - INFO - Script started: Loading dataset...
+2025-01-29 23:22:53,234 - INFO - Dataset loaded successfully.
+2025-01-29 23:22:53,235 - INFO - Generating Sales by Category (Bar Chart)...
+2025-01-29 23:22:53,279 - ERROR - Error generating Sales by Category chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:22:53,279 - INFO - Generating Profit by Region (Bar Chart)...
+2025-01-29 23:22:53,324 - ERROR - Error generating Profit by Region chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:22:53,324 - INFO - Generating Order Quantity Distribution (Histogram)...
+2025-01-29 23:22:53,361 - ERROR - Error generating Order Quantity Distribution chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:22:53,361 - INFO - Generating Sales Trend Over Time (Line Chart)...
+2025-01-29 23:22:53,407 - ERROR - Error generating Sales Trend Over Time chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:22:53,407 - INFO - Generating Sales vs Profit (Scatter Plot)...
+2025-01-29 23:22:53,419 - ERROR - Error generating Sales vs Profit chart: No module named 'statsmodels'
+2025-01-29 23:22:53,419 - INFO - Generating Sales by Sub-Category (Treemap)...
+2025-01-29 23:22:53,589 - ERROR - Error generating Sales by Sub-Category chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:22:53,590 - INFO - Generating Top 10 Customers by Sales (Bar Chart)...
+2025-01-29 23:22:53,648 - ERROR - Error generating Top Customers by Sales chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:22:53,648 - INFO - Generating Sales by Discount Range (Box Plot)...
+2025-01-29 23:22:53,696 - ERROR - Error generating Sales by Discount Range chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:22:53,696 - INFO - Generating Order Distribution by Ship Mode (Pie Chart)...
+2025-01-29 23:22:53,733 - ERROR - Error generating Order Distribution by Ship Mode chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:22:53,733 - INFO - Generating Category-wise Sales Over Time (Area Chart)...
+2025-01-29 23:22:53,791 - ERROR - Error generating Category-wise Sales Over Time chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:22:53,791 - INFO - All graphs generated successfully.
+2025-01-29 23:28:01,732 - INFO - Script started: Loading dataset...
+2025-01-29 23:28:03,912 - INFO - Dataset loaded successfully.
+2025-01-29 23:28:03,913 - INFO - Generating Sales by Category (Bar Chart)...
+2025-01-29 23:28:03,962 - ERROR - Error generating Sales by Category chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:03,962 - INFO - Generating Profit by Region (Bar Chart)...
+2025-01-29 23:28:04,014 - ERROR - Error generating Profit by Region chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:04,014 - INFO - Generating Order Quantity Distribution (Histogram)...
+2025-01-29 23:28:04,056 - ERROR - Error generating Order Quantity Distribution chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:04,056 - INFO - Generating Sales Trend Over Time (Line Chart)...
+2025-01-29 23:28:04,103 - ERROR - Error generating Sales Trend Over Time chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:04,103 - INFO - Generating Sales vs Profit (Scatter Plot)...
+2025-01-29 23:28:04,110 - ERROR - Error generating Sales vs Profit chart: No module named 'statsmodels'
+2025-01-29 23:28:04,111 - INFO - Generating Sales by Sub-Category (Treemap)...
+2025-01-29 23:28:04,242 - ERROR - Error generating Sales by Sub-Category chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:04,242 - INFO - Generating Top 10 Customers by Sales (Bar Chart)...
+2025-01-29 23:28:04,288 - ERROR - Error generating Top Customers by Sales chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:04,288 - INFO - Generating Sales by Discount Range (Box Plot)...
+2025-01-29 23:28:04,338 - ERROR - Error generating Sales by Discount Range chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:04,339 - INFO - Generating Order Distribution by Ship Mode (Pie Chart)...
+2025-01-29 23:28:04,374 - ERROR - Error generating Order Distribution by Ship Mode chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:04,374 - INFO - Generating Category-wise Sales Over Time (Area Chart)...
+2025-01-29 23:28:04,428 - ERROR - Error generating Category-wise Sales Over Time chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:04,428 - INFO - All graphs generated successfully.
+2025-01-29 23:28:17,672 - INFO - Script started: Loading dataset...
+2025-01-29 23:28:20,431 - INFO - Dataset loaded successfully.
+2025-01-29 23:28:20,432 - INFO - Generating Sales by Category (Bar Chart)...
+2025-01-29 23:28:20,476 - ERROR - Error generating Sales by Category chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:20,476 - INFO - Generating Profit by Region (Bar Chart)...
+2025-01-29 23:28:20,521 - ERROR - Error generating Profit by Region chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:20,521 - INFO - Generating Order Quantity Distribution (Histogram)...
+2025-01-29 23:28:20,557 - ERROR - Error generating Order Quantity Distribution chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:20,557 - INFO - Generating Sales Trend Over Time (Line Chart)...
+2025-01-29 23:28:20,601 - ERROR - Error generating Sales Trend Over Time chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:20,601 - INFO - Generating Sales vs Profit (Scatter Plot)...
+2025-01-29 23:28:20,608 - ERROR - Error generating Sales vs Profit chart: No module named 'statsmodels'
+2025-01-29 23:28:20,608 - INFO - Generating Sales by Sub-Category (Treemap)...
+2025-01-29 23:28:20,755 - ERROR - Error generating Sales by Sub-Category chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:20,755 - INFO - Generating Top 10 Customers by Sales (Bar Chart)...
+2025-01-29 23:28:20,808 - ERROR - Error generating Top Customers by Sales chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:20,808 - INFO - Generating Sales by Discount Range (Box Plot)...
+2025-01-29 23:28:20,863 - ERROR - Error generating Sales by Discount Range chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:20,864 - INFO - Generating Order Distribution by Ship Mode (Pie Chart)...
+2025-01-29 23:28:20,898 - ERROR - Error generating Order Distribution by Ship Mode chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:20,898 - INFO - Generating Category-wise Sales Over Time (Area Chart)...
+2025-01-29 23:28:20,955 - ERROR - Error generating Category-wise Sales Over Time chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:28:20,955 - INFO - All graphs generated successfully.
+2025-01-29 23:30:05,473 - INFO - Script started: Loading dataset...
+2025-01-29 23:30:07,867 - INFO - Dataset loaded successfully.
+2025-01-29 23:30:07,868 - INFO - Generating Sales by Category (Bar Chart)...
+2025-01-29 23:30:07,914 - ERROR - Error generating Sales by Category chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:30:07,914 - INFO - Generating Profit by Region (Bar Chart)...
+2025-01-29 23:30:07,960 - ERROR - Error generating Profit by Region chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:30:07,960 - INFO - Generating Order Quantity Distribution (Histogram)...
+2025-01-29 23:30:07,997 - ERROR - Error generating Order Quantity Distribution chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:30:07,997 - INFO - Generating Sales Trend Over Time (Line Chart)...
+2025-01-29 23:30:08,040 - ERROR - Error generating Sales Trend Over Time chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:30:08,040 - INFO - Generating Sales vs Profit (Scatter Plot)...
+2025-01-29 23:30:08,049 - ERROR - Error generating Sales vs Profit chart: No module named 'statsmodels'
+2025-01-29 23:30:08,049 - INFO - Generating Sales by Sub-Category (Treemap)...
+2025-01-29 23:30:08,197 - ERROR - Error generating Sales by Sub-Category chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:30:08,197 - INFO - Generating Top 10 Customers by Sales (Bar Chart)...
+2025-01-29 23:30:08,255 - ERROR - Error generating Top Customers by Sales chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:30:08,256 - INFO - Generating Sales by Discount Range (Box Plot)...
+2025-01-29 23:30:08,311 - ERROR - Error generating Sales by Discount Range chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:30:08,312 - INFO - Generating Order Distribution by Ship Mode (Pie Chart)...
+2025-01-29 23:30:08,346 - ERROR - Error generating Order Distribution by Ship Mode chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:30:08,347 - INFO - Generating Category-wise Sales Over Time (Area Chart)...
+2025-01-29 23:30:08,400 - ERROR - Error generating Category-wise Sales Over Time chart: 
+Image export using the "kaleido" engine requires the kaleido package,
+which can be installed using pip:
+    $ pip install -U kaleido
+
+2025-01-29 23:30:08,400 - INFO - All graphs generated successfully.
+2025-01-30 09:20:14,319 - INFO - Script started: Loading dataset...
+2025-01-30 09:20:17,241 - INFO - Dataset loaded successfully.
+2025-01-30 09:20:17,242 - INFO - Generating Sales by Category (Bar Chart)...
+2025-01-30 09:20:21,124 - INFO - Sales by Category chart saved.
+2025-01-30 09:20:21,124 - INFO - Generating Profit by Region (Bar Chart)...
+2025-01-30 09:20:21,259 - INFO - Profit by Region chart saved.
+2025-01-30 09:20:21,259 - INFO - Generating Order Quantity Distribution (Histogram)...
+2025-01-30 09:20:21,470 - INFO - Order Quantity Distribution chart saved.
+2025-01-30 09:20:21,470 - INFO - Generating Sales Trend Over Time (Line Chart)...
+2025-01-30 09:20:21,694 - INFO - Sales Trend Over Time chart saved.
+2025-01-30 09:20:21,695 - INFO - Generating Sales vs Profit (Scatter Plot)...
+2025-01-30 09:20:21,757 - ERROR - Error generating Sales vs Profit chart: No module named 'statsmodels'
+2025-01-30 09:20:21,758 - INFO - Generating Sales by Sub-Category (Treemap)...
+2025-01-30 09:20:22,098 - INFO - Sales by Sub-Category treemap saved.
+2025-01-30 09:20:22,099 - INFO - Generating Top 10 Customers by Sales (Bar Chart)...
+2025-01-30 09:20:22,247 - INFO - Top Customers by Sales chart saved.
+2025-01-30 09:20:22,247 - INFO - Generating Sales by Discount Range (Box Plot)...
+2025-01-30 09:20:22,528 - INFO - Sales by Discount Range box plot saved.
+2025-01-30 09:20:22,528 - INFO - Generating Order Distribution by Ship Mode (Pie Chart)...
+2025-01-30 09:20:22,656 - INFO - Order Distribution by Ship Mode pie chart saved.
+2025-01-30 09:20:22,656 - INFO - Generating Category-wise Sales Over Time (Area Chart)...
+2025-01-30 09:20:22,867 - INFO - Category-wise Sales Over Time chart saved.
+2025-01-30 09:20:22,867 - INFO - All graphs generated successfully.
